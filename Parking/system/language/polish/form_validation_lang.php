@@ -1,0 +1,26 @@
+<?php
+$lang['is_not_unique']		= "%s nie istnieje.";
+$lang['data_check']			= "Błędne dane.";
+$lang['required']			= "%s jest wymagane.";
+$lang['isset']				= "%s nie może być puste.";
+$lang['valid_email']		= "%s musi zawierać poprawny adres.";
+$lang['valid_emails']		= "%s musi zawierać poprawne adresy.";
+$lang['valid_url']			= "%s musi zawierać poprawny adres URL.";
+$lang['valid_ip']			= "%s musi zawierać poprawny adres IP.";
+$lang['min_length']			= "%s musi zawierać co najmniej %s znaków.";
+$lang['max_length']			= "%s musi zawierać co najwyżej %s znaków.";
+$lang['exact_length']		= "%s musi zawierać dokładnie %s znaków.";
+$lang['alpha']				= "%s może zawierać jedynie litery.";
+$lang['alpha_numeric']		= "%s może zawierać jedynie litery i cyfry.";
+$lang['alpha_dash']			= "%s może zawierać jedynie litery, cyfry, podkreślenia i myślniki.";
+$lang['numeric']			= "%s może zawierać jedynie liczby.";
+$lang['is_numeric']			= "%s może zawierać jedynie cyfry.";
+$lang['integer']			= "%s musi zawierać liczbę całkowitą.";
+$lang['regex_match']		= "%s ma niewłaściwy format.";
+$lang['matches']			= "%s jest różne od %s.";
+$lang['is_unique'] 			= "%s musi być unikalny.";
+$lang['is_natural']			= "%s musi zawierać liczbę dodatnią.";
+$lang['is_natural_no_zero']	= "%s musi zawierać liczbę dodatnią większą od 0.";
+$lang['decimal']			= "%s musi zawierać liczbę dziesietną.";
+$lang['less_than']			= "%s musi być mniejsza od %s.";
+$lang['greater_than']		= "%s musi być większa od %s.";

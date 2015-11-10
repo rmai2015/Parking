@@ -1,0 +1,1 @@
+<img ng-src="{{parking.image}}" alt="{{parking.name}}" title="{{parking.name}}" ng-repeat="parking in parkings" class="img-rounded" height="250px" ng-click="setParkingPage(parking.id)" />
